@@ -1,6 +1,6 @@
 Hey! 
 
-My name is Iuri, im 20 years old and i live in Brazil.
+My name is Iuri, i'm 20 years old and i live in Brazil.
 
 I'm currently learning Python, because of that i created this Github account to post my evolution.
 
